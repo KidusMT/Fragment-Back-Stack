@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/dbb6f9c6faa39f9008a426e5b2dd5a50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/118a3aa5ee1fe50ec2d8bdc39114ccc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8b6f3fd808ce26662837bb1b7a77eab6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/21034ad6377e4adb1850ecc461c2a5fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/094a610c1c26616ccac9c8ee292a1b17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58ef21adcfe580f8d69327a4816d434f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/768c4bcf56e15759c4379b8b18bf2b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/59e45223b32a77459146abaa2edf783c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0652271b0668187c0b7d5fcddeaeeb93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/639be04a270e298a99507ac7958e864e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58b1cdb9edae9b64431bf5d9d4f385c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2448c2f338a14ecd0a95a25ace7ea550/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/7391a1bf64bf11eb1e4c2c838532720a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/091aa32b9b91cdd4262bc7f1c8f92c51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/a8a858e629f89fac10a99f529ff59f51/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2ba8f110c98b628c0c0cf65dcb395866/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/eed055c41ea4bbede5007cec262d6742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8fb5672028f7ff5345eaee0f5892271f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/b11f32c9155aa47f7b4882de4d7cd931/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/abf3bc3e737f759f334b3505ccf35079/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/02c7287fbbac2f1a2d5db0d9e8cbb291/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/1a329e231013d4d536f8e685dcfc08b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0be18cae744510e614f37d4af96e06a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/00134c13302c5efa5b6e0f5c8e205e15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/9147ec4cec89ef991cb93cc3b0fcb17a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/a8a858e629f89fac10a99f529ff59f51/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/a8a858e629f89fac10a99f529ff59f51/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.chintanrathod.fragmentbackstack.MainActivity
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:13:13-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/dbb6f9c6faa39f9008a426e5b2dd5a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/dbb6f9c6faa39f9008a426e5b2dd5a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/118a3aa5ee1fe50ec2d8bdc39114ccc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/118a3aa5ee1fe50ec2d8bdc39114ccc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8b6f3fd808ce26662837bb1b7a77eab6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8b6f3fd808ce26662837bb1b7a77eab6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/21034ad6377e4adb1850ecc461c2a5fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/21034ad6377e4adb1850ecc461c2a5fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/094a610c1c26616ccac9c8ee292a1b17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/094a610c1c26616ccac9c8ee292a1b17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58ef21adcfe580f8d69327a4816d434f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58ef21adcfe580f8d69327a4816d434f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/768c4bcf56e15759c4379b8b18bf2b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/768c4bcf56e15759c4379b8b18bf2b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/59e45223b32a77459146abaa2edf783c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/59e45223b32a77459146abaa2edf783c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0652271b0668187c0b7d5fcddeaeeb93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0652271b0668187c0b7d5fcddeaeeb93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/639be04a270e298a99507ac7958e864e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/639be04a270e298a99507ac7958e864e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58b1cdb9edae9b64431bf5d9d4f385c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/58b1cdb9edae9b64431bf5d9d4f385c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2448c2f338a14ecd0a95a25ace7ea550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2448c2f338a14ecd0a95a25ace7ea550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/7391a1bf64bf11eb1e4c2c838532720a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/7391a1bf64bf11eb1e4c2c838532720a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/091aa32b9b91cdd4262bc7f1c8f92c51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/091aa32b9b91cdd4262bc7f1c8f92c51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/ec61f41d2ee265689d2cae13addb3e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/a8a858e629f89fac10a99f529ff59f51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/a8a858e629f89fac10a99f529ff59f51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2ba8f110c98b628c0c0cf65dcb395866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/2ba8f110c98b628c0c0cf65dcb395866/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/eed055c41ea4bbede5007cec262d6742/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/eed055c41ea4bbede5007cec262d6742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8fb5672028f7ff5345eaee0f5892271f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/8fb5672028f7ff5345eaee0f5892271f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/b11f32c9155aa47f7b4882de4d7cd931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/b11f32c9155aa47f7b4882de4d7cd931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/abf3bc3e737f759f334b3505ccf35079/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/abf3bc3e737f759f334b3505ccf35079/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/02c7287fbbac2f1a2d5db0d9e8cbb291/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/02c7287fbbac2f1a2d5db0d9e8cbb291/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/1a329e231013d4d536f8e685dcfc08b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/1a329e231013d4d536f8e685dcfc08b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0be18cae744510e614f37d4af96e06a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/0be18cae744510e614f37d4af96e06a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/00134c13302c5efa5b6e0f5c8e205e15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/00134c13302c5efa5b6e0f5c8e205e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/9147ec4cec89ef991cb93cc3b0fcb17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kidusmt/.gradle/caches/transforms-2/files-2.1/9147ec4cec89ef991cb93cc3b0fcb17a/AndroidManifest.xml:20:5-44
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		ADDED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kidusmt/Desktop/Code Study/FragmentBackStack/app/src/main/AndroidManifest.xml
